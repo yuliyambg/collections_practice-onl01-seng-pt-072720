@@ -3,7 +3,5 @@ def sort_array_asc(array)
 end
 
 def sort_array_desc(array)
-  new_arr = []
-  array.
-  return new_arr
+  return 
 end
